@@ -1,0 +1,30 @@
+{
+  "name": "riskbt_app",
+  "version": "1.0.0",
+  "description": "backend-for-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MosheBhembe/back_end_app.git"
+  },
+  "keywords": [
+    "back_end"
+  ],
+  "author": "MosheBhembe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MosheBhembe/back_end_app/issues"
+  },
+  "homepage": "https://github.com/MosheBhembe/back_end_app#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mailgun-js": "^0.22.0",
+    "mangodb": "^1.0.0",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.0",
+    "uuid": "^9.0.1"
+  }
+}
